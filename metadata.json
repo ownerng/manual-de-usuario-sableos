@@ -1,0 +1,5 @@
+{
+  "name": "SableOS Documentation",
+  "description": "The official user manual and tool guide for SableOS, a hardened, Debian-based operating system designed for OSINT (Open Source Intelligence) professionals. This documentation provides guides on system usage, core concepts, and detailed information on its pre-installed tools.",
+  "requestFramePermissions": []
+}
