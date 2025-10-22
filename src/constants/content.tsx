@@ -1,4 +1,3 @@
-import React from 'react';
 import type { DocPage, Tool } from '../types';
 import { ToolCategory } from '../types';
 
